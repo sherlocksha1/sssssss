@@ -61,7 +61,7 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 <a href="https://youtu.be/lI71HsWzTKE"><img src="https://img.shields.io/youtube/views/lI71HsWzTKE?style=social">
 
 #### Deploy To Heroku
-<a href="https://heroku.com/deploy?template=https://github.com/sherlocksha1/sssssss"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/sherlocksha1/sssssss/tree/MoTech"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 
 </a>
 </p>
